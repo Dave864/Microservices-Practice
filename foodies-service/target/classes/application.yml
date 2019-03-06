@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: foodies-service
+    
+server:
+  port: 0
